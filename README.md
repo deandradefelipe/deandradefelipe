@@ -18,6 +18,22 @@ Here are some ideas to get you started:
 - 💫I'm studying for a Master's degree in Physics at the Federal University of Goiás (UFG)
 - 🧑🏻‍💻I’m interested in Python, Monte Carlo and Machine Learning/Deep Learning.
 
+## Currently Learning 🌱
+<p>
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" height="36"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" title="FastAPI">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="36"/>
+  </a>
+  <a href="https://www.tensorflow.org/" title="TensorFlow">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="36"/>
+  </a>
+  <a href="https://sqlite.org/" title="SQLite">
+    <img src="https://skillicons.dev/icons?i=sqlite" height="36"/>
+  </a>
+</p>
+
 
 ## Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deandradefelipe/)
