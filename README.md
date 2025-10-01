@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=sqlite" height="36"/>
   </a>
   <a href="https://scikit-learn.org/stable/" title="Scikit-Learn">
-    <img src="https://skillicons.dev/icons?i=scikit-learn" height="36"/>
+    <img src="https://skillicons.dev/icons?i=scikitlearn" height="36"/>
   </a>
 
 </p>
