@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🐢I'm Felipe de Andrade
+- 💫I'm studying for a Master's degree in Physics at the Federal University of Goiás (UFG)
+- 🧑🏻‍💻I’m interested in Python, Monte Carlo and Machine Learning/Deep Learning.
+
+
+## Get in touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deandradefelipe/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrade_felipe@discente.ufg.br)
+[![Lattes](https://img.shields.io/badge/Lattes-1E90FF?style=for-the-badge&logo=readme&logoColor=white)](http://lattes.cnpq.br/1980408896681978)
+
