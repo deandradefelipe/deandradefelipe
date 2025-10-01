@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🧑🏻‍💻I’m interested in Python, Monte Carlo and Machine Learning/Deep Learning.
 
 ## Currently Learning 🌱
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,fastapi,sqqlite,scikitlearn&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,fastapi,sqlite,scikitlearn&perline=7)](https://skillicons.dev)
 
 ## Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deandradefelipe/)
