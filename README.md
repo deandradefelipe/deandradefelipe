@@ -32,6 +32,10 @@ Here are some ideas to get you started:
   <a href="https://sqlite.org/" title="SQLite">
     <img src="https://skillicons.dev/icons?i=sqlite" height="36"/>
   </a>
+  <a href="https://scikit-learn.org/stable/" title="Scikit-Learn">
+    <img src="https://skillicons.dev/icons?i=scikit-learn" height="36"/>
+  </a>
+
 </p>
 
 
